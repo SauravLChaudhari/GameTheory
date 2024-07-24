@@ -1,0 +1,4 @@
+Mixed Strategy Nash Equilibrium for Player A:
+Probability of Buy: 0.5
+Probability of Sell: 0.5
+Prediction for Nifty50 stock price movement: Stock price likely to decrease
